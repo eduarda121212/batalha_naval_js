@@ -1,5 +1,6 @@
-/** O código fonte agora da acessa a Eduarda */
-//feito
+/** O codigo fonte agora da acessa a Eduarda */
+/** feito - Eduarda */
+/** O codigo fonte agora pode ser acessado pela Ana */
  
 var Tabuleiro = [];
 
